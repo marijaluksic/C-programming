@@ -1,0 +1,2 @@
+C:\Users\Marija\source\repos\Lab 3 Priprema za vjezbu  Jednostavan tetris\Debug\Lab 3 Priprema za vjezbu  Jednostavan tetris.exe
+C:\Users\Marija\source\repos\Lab 3 Priprema za vjezbu  Jednostavan tetris\Debug\Lab 3 Priprema za vjezbu  Jednostavan tetris.pdb

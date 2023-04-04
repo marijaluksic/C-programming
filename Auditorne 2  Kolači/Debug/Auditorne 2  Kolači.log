@@ -1,0 +1,4 @@
+﻿  Auditorne 2  Kolači.c
+C:\Users\Marija\source\repos\Auditorne 2  Kolači\Auditorne 2  Kolači.c(24,128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 2  Kolači\Auditorne 2  Kolači.c(31,128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Auditorne 2  Kolači.vcxproj -> C:\Users\Marija\source\repos\Auditorne 2  Kolači\Debug\Auditorne 2  Kolači.exe

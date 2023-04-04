@@ -1,0 +1,5 @@
+﻿  Lab 4 Priprema za vjezbu  Ivana.c
+C:\Users\Marija\source\repos\Lab 4 Priprema za vjezbu  Ivana\Lab 4 Priprema za vjezbu  Ivana.c(719,45): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[2]'
+C:\Users\Marija\source\repos\Lab 4 Priprema za vjezbu  Ivana\Lab 4 Priprema za vjezbu  Ivana.c(719,36): warning C4024: 'upisimatricu': different types for formal and actual parameter 4
+C:\Users\Marija\source\repos\Lab 4 Priprema za vjezbu  Ivana\Lab 4 Priprema za vjezbu  Ivana.c(753,10): warning C4129: 'M': unrecognized character escape sequence
+  Lab 4 Priprema za vjezbu  Ivana.vcxproj -> C:\Users\Marija\source\repos\Lab 4 Priprema za vjezbu  Ivana\x64\Debug\Lab 4 Priprema za vjezbu  Ivana.exe

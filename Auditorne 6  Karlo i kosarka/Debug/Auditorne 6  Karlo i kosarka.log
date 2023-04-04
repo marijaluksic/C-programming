@@ -1,0 +1,4 @@
+﻿  Auditorne 6  Karlo i kosarka.c
+C:\Users\Marija\source\repos\Auditorne 6  Karlo i kosarka\Auditorne 6  Karlo i kosarka.c(110,30): warning C4133: 'function': incompatible types - from '__int64 *' to 'int *'
+C:\Users\Marija\source\repos\Auditorne 6  Karlo i kosarka\Auditorne 6  Karlo i kosarka.c(110,34): warning C4133: 'function': incompatible types - from '__int64 *' to 'int *'
+  Auditorne 6  Karlo i kosarka.vcxproj -> C:\Users\Marija\source\repos\Auditorne 6  Karlo i kosarka\Debug\Auditorne 6  Karlo i kosarka.exe

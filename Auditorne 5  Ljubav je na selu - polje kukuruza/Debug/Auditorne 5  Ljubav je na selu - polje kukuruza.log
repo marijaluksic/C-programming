@@ -1,0 +1,4 @@
+﻿  Auditorne 5  Ljubav je na selu - polje kukuruza.c
+C:\Users\Marija\source\repos\Auditorne 5  Ljubav je na selu - polje kukuruza\Auditorne 5  Ljubav je na selu - polje kukuruza.c(55,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 5  Ljubav je na selu - polje kukuruza\Auditorne 5  Ljubav je na selu - polje kukuruza.c(60,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Auditorne 5  Ljubav je na selu - polje kukuruza.vcxproj -> C:\Users\Marija\source\repos\Auditorne 5  Ljubav je na selu - polje kukuruza\Debug\Auditorne 5  Ljubav je na selu - polje kukuruza.exe

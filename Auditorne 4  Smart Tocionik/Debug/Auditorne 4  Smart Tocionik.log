@@ -1,0 +1,5 @@
+﻿  Auditorne 4  Smart Tocionik.c
+C:\Users\Marija\source\repos\Auditorne 4  Smart Tocionik\Auditorne 4  Smart Tocionik.c(50,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 4  Smart Tocionik\Auditorne 4  Smart Tocionik.c(67,123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 4  Smart Tocionik\Auditorne 4  Smart Tocionik.c(108,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Auditorne 4  Smart Tocionik.vcxproj -> C:\Users\Marija\source\repos\Auditorne 4  Smart Tocionik\Debug\Auditorne 4  Smart Tocionik.exe

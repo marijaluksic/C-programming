@@ -1,0 +1,6 @@
+﻿  Auditorne 1 Licenje sobe - cijena.c
+C:\Users\Marija\source\repos\Auditorne 1 Licenje sobe - cijena\Auditorne 1 Licenje sobe - cijena.c(19,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 1 Licenje sobe - cijena\Auditorne 1 Licenje sobe - cijena.c(23,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 1 Licenje sobe - cijena\Auditorne 1 Licenje sobe - cijena.c(28,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marija\source\repos\Auditorne 1 Licenje sobe - cijena\Auditorne 1 Licenje sobe - cijena.c(31,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Auditorne 1 Licenje sobe - cijena.vcxproj -> C:\Users\Marija\source\repos\Auditorne 1 Licenje sobe - cijena\Debug\Auditorne 1 Licenje sobe - cijena.exe

@@ -1,0 +1,5 @@
+﻿  Auditorne 8  Amerikanac.c
+C:\Users\Marija\source\repos\Auditorne 8  Amerikanac\Auditorne 8  Amerikanac.c(19,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Auditorne 8  Amerikanac\Auditorne 8  Amerikanac.c(28,34): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Marija\source\repos\Auditorne 8  Amerikanac\Auditorne 8  Amerikanac.c(28,34): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Auditorne 8  Amerikanac.vcxproj -> C:\Users\Marija\source\repos\Auditorne 8  Amerikanac\Debug\Auditorne 8  Amerikanac.exe

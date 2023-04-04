@@ -1,0 +1,4 @@
+﻿  Lab 5 Priprema za vjezbu  Kaladont.c
+C:\Users\Marija\source\repos\Lab 5 Priprema za vjezbu  Kaladont\Lab 5 Priprema za vjezbu  Kaladont.c(111,27): warning C4047: 'function': 'char **' differs in levels of indirection from 'int [1000]'
+C:\Users\Marija\source\repos\Lab 5 Priprema za vjezbu  Kaladont\Lab 5 Priprema za vjezbu  Kaladont.c(111,18): warning C4024: 'ispispobjednika': different types for formal and actual parameter 1
+  Lab 5 Priprema za vjezbu  Kaladont.vcxproj -> C:\Users\Marija\source\repos\Lab 5 Priprema za vjezbu  Kaladont\Debug\Lab 5 Priprema za vjezbu  Kaladont.exe

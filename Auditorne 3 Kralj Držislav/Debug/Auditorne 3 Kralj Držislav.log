@@ -1,0 +1,4 @@
+﻿  Auditorne 3 Kralj Držislav.c
+C:\Users\Marija\source\repos\Auditorne 3 Kralj Držislav\Auditorne 3 Kralj Držislav.c(31,39): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Marija\source\repos\Auditorne 3 Kralj Držislav\Auditorne 3 Kralj Držislav.c(39,39): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Auditorne 3 Kralj Držislav.vcxproj -> C:\Users\Marija\source\repos\Auditorne 3 Kralj Držislav\Debug\Auditorne 3 Kralj Držislav.exe
